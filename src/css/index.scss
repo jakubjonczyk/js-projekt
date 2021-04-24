@@ -1,0 +1,148 @@
+$color: white;
+
+.body {
+    font-size: 14px;
+    color: #333;
+    background-color: #fff;
+    letter-spacing: 1px;
+}
+
+.section {
+    padding: 100px 0;
+}
+
+.aboutImage {
+    max-width: 100%;
+}
+
+.copyrightSection {
+    background-color: #000;
+    color: $color;
+    padding: 30px 5px;
+
+    p {
+        margin: 0;
+    }
+}
+
+#navigation {
+    background-color: #3867d6;
+    padding: 20px 10px;
+    z-index: 100;
+    width: 100%;
+
+    li {
+        padding: 0 10px;
+
+        a {
+            color: $color;
+            padding-right: 0.1rem;
+            padding-left: 0.1rem;
+        }
+    }
+}
+
+.navbar-brand {
+    color: $color;
+
+    &:hover {
+        color: black;
+    }
+}
+
+.menu-icon {
+    width: 60%;
+    height: 60%;
+}
+
+.col-3 {
+    max-width: 75%;
+}
+
+#miejsce svg {
+    width: 80%;
+    height: 80%;
+}
+
+#next {
+    display: none;
+    opacity: 0;
+}
+
+.mystyle {
+    fill: red !important;
+}
+
+#Slider {
+    padding: 80px 15px;
+    filter: brightness(50%);
+}
+
+.modal-backdrop.show {
+    opacity: 0.5;
+    z-index: 50;
+}
+
+#buttonLog {
+    background-color: #3867d6;
+    border: none;
+    padding-top: 8px;
+}
+
+.carousel-caption {
+    h5,
+    p {
+        color: $color;
+        font-weight: 999;
+        font-size: 30px;
+    }
+}
+
+#alarm {
+    color: red;
+}
+
+#next3 {
+    display: none;
+    opacity: 0;
+}
+
+#time {
+    color: $color;
+    font-weight: 9;
+    padding-top: 8px;
+}
+
+.mystyle {
+    stroke: red !important;
+    stroke-width: 4;
+}
+
+.st13 {
+    stroke: green;
+    stroke-width: 4;
+}
+
+#Embrear {
+    visibility: hidden;
+    display: none;
+}
+
+#Boeing {
+    visibility: hidden;
+    display: none;
+}
+
+.d-md-block {
+    padding-bottom: 420px;
+}
+
+#Dreamliner {
+    visibility: hidden;
+    display: none;
+
+    #seats path {
+        stroke: green;
+        stroke-width: 2;
+    }
+}
