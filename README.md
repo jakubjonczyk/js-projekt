@@ -29,10 +29,10 @@ The user can choose the date of departure and arrival, choose a seat on the plan
 
 ## Features
 List the ready features here:
--Registration with Mongodb
--Seat selection on the plane
--Weather forecasts for your location
--Currency converter
+- Registration with Mongodb
+- Seat selection on the plane
+- Weather forecasts for your location
+- Currency converter
 
 
 ## Screenshots
