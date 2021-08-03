@@ -7,7 +7,6 @@
 * [Features](#features)
 * [Usage](#usage)
 * [Project Status](#project-status)
-* [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
 ## General Information
@@ -35,27 +34,13 @@ The user can choose the date of departure and arrival, choose a seat on the plan
 - Currency converter
 
 ## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
 
-`write-your-code-here`
+`npm i`
+
+`node server.js`
 
 ## Project Status
 Project is: complete
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- 
-- Many thanks to...
-
-
 ## Contact
-Created 
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+Email: jakubjonczyk@gmail.com
